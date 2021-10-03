@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINEXTDEMO", "APINEXTDEMO\APINEXTDEMO.csproj", "{CA78C3C3-E6AC-42FA-965C-C86E9DBBCB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA78C3C3-E6AC-42FA-965C-C86E9DBBCB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA78C3C3-E6AC-42FA-965C-C86E9DBBCB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA78C3C3-E6AC-42FA-965C-C86E9DBBCB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA78C3C3-E6AC-42FA-965C-C86E9DBBCB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2E517A-06A5-42A8-875E-B00128BB4F6B}
+	EndGlobalSection
+EndGlobal
